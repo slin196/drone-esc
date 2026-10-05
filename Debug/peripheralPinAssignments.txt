@@ -1,0 +1,20 @@
+
+- GPIOA:
+	+ Standard Output: PA26
+- SYSCTL
+- TIMG14:
+	+ Capture/Compare Pin 0: PA16
+	+ Capture/Compare Pin 1: PA23
+	+ Capture/Compare Pin 2: PA6
+- TIMA0:
+	+ Capture/Compare Pin 0: PA2
+- ADC0:
+	+ ADC12 Channel 0 Pin: PA27
+	+ ADC12 Channel 9 Pin: PA17
+	+ ADC12 Channel 3 Pin: PA24
+	+ ADC12 Channel 2 Pin: PA25
+- EVENT
+- DMA
+- BOARD:
+	+ Debug Clock: PA20
+	+ Debug Data In Out: PA19
